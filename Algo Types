@@ -1,1 +1,39 @@
+Here are 20 essential coding patterns that are pivotal for acing coding interviews.
 
+1. Two Pointers
+2. Island (Matrix Traversal) Pattern
+3. Fast & Slow Pointers
+4. Sliding Window
+5. Merge Intervals
+6. Cyclic Sort
+7. In-place Reversal of a Linked List
+8. Tree Breadth First Search
+9. Tree Depth First Search
+10. Two Heaps
+11. Subsets
+12. Modified Binary Search
+13. Bitwise XOR
+14. Top 'K' Elements
+15. K-way Merge
+16. Topological Sort
+17. Trie
+18. Backtracking
+19. Monotonic Stack
+20. 0/1 Knapsack (Dynamic Programming) 
+
+1. Two Pointers
+Description
+The Two Pointers technique is a clever strategy used in algorithm design, particularly when dealing with arrays or linked lists. Imagine you have two fingers, and you place each at different ends or positions of an array. These ‘fingers’ or pointers then traverse through the array, helping you to compare, search, or even manipulate the data efficiently.
+
+Two Pointers
+
+Usage
+Ordered Data Structures: This pattern shines when applied to ordered arrays or lists, allowing for intelligent, position-based decisions that can significantly optimize the algorithm.
+Efficiency: By reducing the need for nested loops, the Two Pointers technique helps in achieving linear time complexity, making your algorithm faster and more efficient.
+Pros and Cons
+Pros:
+Efficiency: Achieves O(n) time complexity for problems that might otherwise require O(n^2).
+Simplicity: Once mastered, it provides a straightforward and elegant solution.
+Cons:
+Applicability: Mainly beneficial for problems involving sequences or intervals.
+Initial Complexity: It might take some time to get the hang of this pattern and understand where and how to move the pointers.
