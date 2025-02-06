@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 
-public class Problem1_TwoSum{
+public class P1_TwoSum {
 
     public static int[][] findSum(int arr[], int sum){
        Map<Integer,Integer> values = new HashMap();
