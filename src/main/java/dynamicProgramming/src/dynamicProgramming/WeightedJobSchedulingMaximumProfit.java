@@ -1,4 +1,4 @@
-package dynamicProgramming;
+package dynamicProgramming.src.dynamicProgramming;
 
 import java.util.Arrays;
 import java.util.Comparator;
